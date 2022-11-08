@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "PICO_Module")(type "KiCad")(uri "${KIPRJMOD}/PICO_Module.kicad_sym")(options "")(descr ""))
+  (lib (name "pico_adapter_specific")(type "KiCad")(uri "${KIPRJMOD}/pico_adapter_specific.kicad_sym")(options "")(descr ""))
+)
