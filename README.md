@@ -2,6 +2,8 @@
 
 This is an attempt at creating a cheap and easy to assemble Adapter board for the raspberry pi to run VGA and PWM-audio demos.
 
+![THT Board](board.png)
+
 ## Key features
 * VGA output via 15-pin SUB-D connector
 * Stereo Audio output via 3.5mm jack
