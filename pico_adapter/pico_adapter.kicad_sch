@@ -3761,11 +3761,11 @@
     (in_bom yes) (on_board yes)
     (uuid dfb90120-6b1d-4d5b-8348-783c21592827)
     (property "Reference" "J1" (id 0) (at 179.07 45.2882 0))
-    (property "Value" "L77HDE15SD1CH4F" (id 1) (at 179.07 47.5996 0))
-    (property "Footprint" "Connector_Dsub:DSUB-15-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm" (id 2) (at 154.94 57.15 0)
+    (property "Value" "VGA_Conn" (id 1) (at 179.07 47.5996 0))
+    (property "Footprint" "VGA_connector:ICD15S13E4GV00LF" (id 2) (at 154.94 57.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" " ~" (id 3) (at 154.94 57.15 0)
+    (property "Datasheet" "ICD15S13E4GV00LF" (id 3) (at 154.94 57.15 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (pin "0" (uuid 78ab65c1-13ea-4143-a8ad-acaa75663789))
@@ -3951,7 +3951,7 @@
       (reference "D1") (unit 1) (value "D_Schottky") (footprint "Diode_THT:D_A-405_P10.16mm_Horizontal")
     )
     (path "/dfb90120-6b1d-4d5b-8348-783c21592827"
-      (reference "J1") (unit 1) (value "L77HDE15SD1CH4F") (footprint "Connector_Dsub:DSUB-15-HD_Female_Horizontal_P2.29x1.98mm_EdgePinOffset8.35mm_Housed_MountingHolesOffset10.89mm")
+      (reference "J1") (unit 1) (value "VGA_Conn") (footprint "VGA_connector:ICD15S13E4GV00LF")
     )
     (path "/25aafccc-32f1-4240-940f-ac8f7092ee50"
       (reference "J2") (unit 1) (value "AudioJack3") (footprint "Connector_Audio:Jack_3.5mm_CUI_SJ1-3533NG_Horizontal")

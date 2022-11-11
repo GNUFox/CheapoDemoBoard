@@ -1,3 +1,4 @@
 (fp_lib_table
   (lib (name "Module")(type "KiCad")(uri "${KIPRJMOD}/Module.pretty")(options "")(descr ""))
+  (lib (name "VGA_connector")(type "KiCad")(uri "${KIPRJMOD}/VGA_connector.pretty")(options "")(descr ""))
 )

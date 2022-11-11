@@ -32,6 +32,10 @@ fp-info-cache
 # Gerberfiles
 pico_adapter/gerber/
 
+
+# Can't uppload footrpint that was downloaded from mouser (License ?)
+VGA_connector.pretty
+
 # LTSpice Files
 *.op.raw
 *.raw
