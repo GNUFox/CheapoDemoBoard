@@ -31,6 +31,7 @@ fp-info-cache
 
 # Gerberfiles
 pico_adapter/gerber/
+pico_adapter/gerber.zip
 
 
 # Can't uppload footrpint that was downloaded from mouser (License ?)
